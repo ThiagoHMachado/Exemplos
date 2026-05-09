@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitectureCQRS.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e992940faaef36d5139597afd51dd5cfede1052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b00380bb0ff4a5a79f7264187b307bb15c5dfd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitectureCQRS.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitectureCQRS.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

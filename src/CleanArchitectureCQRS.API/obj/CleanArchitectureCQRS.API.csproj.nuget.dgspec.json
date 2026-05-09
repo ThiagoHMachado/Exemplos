@@ -30,8 +30,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -542,8 +542,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -916,8 +916,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -1307,8 +1307,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -1665,8 +1665,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -2054,8 +2054,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\DevExpress 25.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com": {}
+          "C:\\Users\\x\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
