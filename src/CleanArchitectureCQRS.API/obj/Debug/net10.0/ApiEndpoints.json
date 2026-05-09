@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "CleanArchitectureCQRS.API.Controllers.ClienteController",
+    "Method": "Post",
+    "RelativePath": "Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "CleanArchitectureCQRS.Application.Events.BaseEventCommand\u00601\u002BCriarCommand[[CleanArchitectureCQRS.Domain.DTO.Request.ClienteRequest, CleanArchitectureCQRS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureCQRS.API.Controllers.RedisController",
+    "Method": "Get",
+    "RelativePath": "Redis/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureCQRS.API.Controllers.RedisController",
+    "Method": "Delete",
+    "RelativePath": "Redis/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureCQRS.API.Controllers.RedisController",
+    "Method": "Set",
+    "RelativePath": "Redis/{key}/{value}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

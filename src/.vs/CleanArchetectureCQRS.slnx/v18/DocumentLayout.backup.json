@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B755B81-9008-4C7C-A05E-CD38AE31324F}|CleanArchitectureCQRS.API\\CleanArchitectureCQRS.API.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B755B81-9008-4C7C-A05E-CD38AE31324F}|CleanArchitectureCQRS.API\\CleanArchitectureCQRS.API.csproj|solutionrelative:cleanarchitecturecqrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.application\\commands\\criarpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|solutionrelative:cleanarchitecturecqrs.application\\commands\\criarpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.application\\queries\\obterpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|solutionrelative:cleanarchitecturecqrs.application\\queries\\obterpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.application\\queries\\obterpedidoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|solutionrelative:cleanarchitecturecqrs.application\\queries\\obterpedidoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB39CF5B-DC6A-4BAA-AA21-B9EAFBB640B8}|CleanArchitectureCQRS.Domain\\CleanArchitectureCQRS.Domain.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB39CF5B-DC6A-4BAA-AA21-B9EAFBB640B8}|CleanArchitectureCQRS.Domain\\CleanArchitectureCQRS.Domain.csproj|solutionrelative:cleanarchitecturecqrs.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.application\\commands\\criarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|solutionrelative:cleanarchitecturecqrs.application\\commands\\criarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchitecturecqrs.application\\cleanarchitecturecqrs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3034A44D-F055-4955-B945-211B5463EE8B}|CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj|solutionrelative:cleanarchitecturecqrs.application\\cleanarchitecturecqrs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EFC09B-0A2B-A505-8FBE-07C8968A9FEA}|CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj|e:\\users\\x\\source\\repos\\exemplos\\src\\cleanarchetecturecqrs.desktop\\cleanarchetecturecqrs.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57EFC09B-0A2B-A505-8FBE-07C8968A9FEA}|CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj|solutionrelative:cleanarchetecturecqrs.desktop\\cleanarchetecturecqrs.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EFC09B-0A2B-A505-8FBE-07C8968A9FEA}|CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj|E:\\Users\\x\\source\\repos\\Exemplos\\src\\cleanarchetecturecqrs.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57EFC09B-0A2B-A505-8FBE-07C8968A9FEA}|CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj|solutionrelative:cleanarchetecturecqrs.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:20:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObterPedidoQuery.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Queries\\ObterPedidoQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Application\\Queries\\ObterPedidoQuery.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Queries\\ObterPedidoQuery.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.Application\\Queries\\ObterPedidoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:19:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObterPedidoHandler.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Queries\\ObterPedidoHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Application\\Queries\\ObterPedidoHandler.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Queries\\ObterPedidoHandler.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.Application\\Queries\\ObterPedidoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:19:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarPedidoHandler.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Commands\\CriarPedidoHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Application\\Commands\\CriarPedidoHandler.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Commands\\CriarPedidoHandler.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.Application\\Commands\\CriarPedidoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:18:52.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleanArchitectureCQRS.Application",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj",
+              "RelativeToolTip": "CleanArchitectureCQRS.Application\\CleanArchitectureCQRS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T10:18:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarPedidoCommand.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Commands\\CriarPedidoCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.Application\\Commands\\CriarPedidoCommand.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.Application\\Commands\\CriarPedidoCommand.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.Application\\Commands\\CriarPedidoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:18:10.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureCQRS.API\\Program.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchitectureCQRS.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitectureCQRS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:13:59.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanArchetectureCQRS.DeskTop.csproj",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj",
+              "RelativeDocumentMoniker": "CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj",
+              "RelativeToolTip": "CleanArchetectureCQRS.DeskTop\\CleanArchetectureCQRS.DeskTop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T10:06:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchetectureCQRS.DeskTop\\Form1.cs",
+              "RelativeDocumentMoniker": "CleanArchetectureCQRS.DeskTop\\Form1.cs",
+              "ToolTip": "E:\\Users\\x\\source\\repos\\Exemplos\\src\\CleanArchetectureCQRS.DeskTop\\Form1.cs [Design]",
+              "RelativeToolTip": "CleanArchetectureCQRS.DeskTop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:04:12.801Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

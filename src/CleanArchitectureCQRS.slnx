@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="CleanArchitectureCQRS.API/CleanArchitectureCQRS.API.csproj" Id="2b755b81-9008-4c7c-a05e-cd38ae31324f" />
+  <Project Path="CleanArchitectureCQRS.Application/CleanArchitectureCQRS.Application.csproj" Id="3034a44d-f055-4955-b945-211b5463ee8b" />
+  <Project Path="CleanArchitectureCQRS.CrossCutting/CleanArchitectureCQRS.CrossCutting.csproj" Id="8c2c5009-22a3-4020-ad0a-5d3d818d0b94" />
+  <Project Path="CleanArchitectureCQRS.DeskTop/CleanArchitectureCQRS.DeskTop.csproj" />
+  <Project Path="CleanArchitectureCQRS.Domain/CleanArchitectureCQRS.Domain.csproj" Id="fb39cf5b-dc6a-4baa-aa21-b9eafbb640b8" />
+  <Project Path="CleanArchitectureCQRS.Infrastructure/CleanArchitectureCQRS.Infrastructure.csproj" Id="2791f62a-12e7-4d37-bb12-4a0772324009" />
+  <Project Path="CleanArchitectureCQRS.Services/CleanArchitectureCQRS.Services.csproj" Id="0a578934-1e01-4413-b779-bae7f37b1c11" />
+</Solution>

@@ -1,0 +1,15 @@
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\bin\Debug\net10.0\CleanArchitectureCQRS.Domain.deps.json
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\bin\Debug\net10.0\CleanArchitectureCQRS.Domain.runtimeconfig.json
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\bin\Debug\net10.0\CleanArchitectureCQRS.Domain.dll
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\bin\Debug\net10.0\CleanArchitectureCQRS.Domain.pdb
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.csproj.AssemblyReference.cache
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.AssemblyInfoInputs.cache
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.AssemblyInfo.cs
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.csproj.CoreCompileInputs.cache
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.sourcelink.json
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.dll
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\refint\CleanArchitectureCQRS.Domain.dll
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.pdb
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\CleanArchitectureCQRS.Domain.genruntimeconfig.cache
+E:\Users\x\source\repos\Exemplos\src\CleanArchitectureCQRS.Domain\obj\Debug\net10.0\ref\CleanArchitectureCQRS.Domain.dll
